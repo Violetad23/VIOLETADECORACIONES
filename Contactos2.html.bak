@@ -1,0 +1,123 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>DECORACIONES VIOLETA</title>
+<style type="text/css">
+body {
+    background-color: #CEB4E1;
+}
+a:link {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+a:visited {
+    text-decoration: none;
+    color: #FFFFFF;
+}
+a:hover {
+    text-decoration: none;
+}
+a:active {
+    text-decoration: none;
+}
+</style>
+</head>
+
+<body>
+<table width="1211" height="373" border="0">
+  <tbody>
+    <tr>
+      <td width="62" rowspan="3"><img src="margen1.jpg" width="69" height="577" alt=""/></td>
+      <td height="62" colspan="2"><img src="margen2.jpg" width="1138" height="76" alt=""/></td>
+    </tr>
+    <tr>
+      <td width="393"><img src="logoletra.jpg" width="395" height="194" alt=""/></td>
+      <td width="742" align="center" bgcolor="#000000"><h3 style="font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 18px;"><a href="INICIO.html">Inicio</a> / <a href="QUIENES SOMOS.html">Quienes Somos</a> / <a href="PORTAFOLIO.html">Portafolio</a> / <a href="PRODUCTOS.html">Productos </a>/<a href="CONTACTOS.html"> Contactos</a></h3>
+        <table width="428" height="52" border="0">
+          <tbody>
+            <tr>
+              <td align="center"><a href="https://www.facebook.com/profile.php?id=100092684983426"><img src="facebook (1).png" width="50" height="50" alt=""/></a></td>
+              <td align="center"><a href="https://www.instagram.com/brodera.gt/"><img src="instagram.png" width="50" height="50" alt=""/></a></td>
+              <td align="center"><a href="https://www.youtube.com/channel/UCUTF5eZAo5pX-Ufq2rgVksA"><img src="youtube.png" width="50" height="50" alt=""/></a></td>
+              <td align="center"><a href="https://mail.google.com/mail/u/5/#inbox"><img src="gmail.png" width="50" height="50" alt=""/></a></td>
+            </tr>
+          </tbody>
+        </table>
+        <p style="font-family: Gotham, 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 15px;">&nbsp;
+          <marquee behavior="scroll" direction="left" bgcolor="#EEDBF0">
+            <font size="+2" color="#462A54" face="arial black">Decora tu hogar</font>
+          </marquee>
+        </p></td>
+    </tr>
+    <tr>
+      <td colspan="2"><img src="fondo2.jpg" width="1139" height="293" alt=""/></td>
+    </tr>
+  </tbody>
+</table>
+<p><font color="#350F44" size="+1" face="arial black">CONTÁCTANOS</font></p>
+<table width="856" height="99" border="0">
+  <tbody>
+    <tr>
+      <td><p><font color="#350F44" size="+1" face="arial black">Teléfonos:</font></p>
+        <p><font color="#350F44" size="+1" face="arial black">7833-1606</font></p>
+        <p><font color="#350F44" size="+1" face="arial black">4294-4397(servicio a domocilio)</font></p></td>
+      <td><p><font color="#350F44" size="+1" face="arial black">GMAIL:</font></p>
+        <p><font color="#350F44" size="+1" face="arial black">violetadecoraciones23@gmail.com</font></p></td>
+    </tr>
+  </tbody>
+</table>
+<p>&nbsp;</p>
+<p><font color="#350F44" size="+1" face="arial black">VISÍTANOS</font></p>
+<p>Calle Principal, entre la 2da. Y 3ra. Avenida, Sumpango. Sac. Guatemala Frente a Semillero S.A.</p>
+<p>
+  <iframe src="https://www.google.com/maps/embed?pb=!4v1684610799020!6m8!1m7!1shEj61ysTt2rm1GM6TXoZHw!2m2!1d14.64669944997362!2d-90.73529212608472!3f279.7502939136833!4f5.579664139161395!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</p>
+<p>
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3096.168359299365!2d-90.73733938075746!3d14.646973552368872!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x85890d484007e1bb%3A0x94ea993ac135d11!2sSumpango!5e1!3m2!1ses-419!2sgt!4v1684610922893!5m2!1ses-419!2sgt" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</p>
+<p><font color="#350F44" size="+1" face="arial black">DANOS TU OPINIÓN</font></p>
+<form enctype="text/plain" action="mailto:violetadecoraciones23@gmail.com" method="post">
+  <table width="804" height="202" border="1">
+    <tbody>
+      <tr>
+        <th width="182" align="right" scope="row">Nombre:</th>
+        <td width="645"><input type="text" name="textfield" id="textfield"></td>
+      </tr>
+      <tr>
+        <th align="right" scope="row">Apellido:</th>
+        <td><input type="text" name="textfield2" id="textfield2"></td>
+      </tr>
+      <tr>
+        <th align="right" scope="row">E-mail:</th>
+        <td><input type="email" name="email" id="email"></td>
+      </tr>
+      <tr>
+        <th align="right" scope="row">Número:</th>
+        <td><input type="text" name="textfield3" id="textfield3"></td>
+      </tr>
+      <tr>
+        <th align="right" scope="row">Sexo:</th>
+        <td><input type="radio" name="radio" id="radio" value="radio">
+          <label for="radio">Masculino              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+            <input type="radio" name="radio2" id="radio2" value="radio2">
+            Femenino</label></td>
+      </tr>
+      <tr>
+        <th align="right" scope="row">Comentario:</th>
+        <td><input type="text" name="textfield4" id="textfield4"></td>
+      </tr>
+      <tr align="center">
+        <th colspan="2" align="left" scope="row">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Enviar:
+          <input type="submit" name="submit" id="submit" value="Enviar">
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          Restaurar:
+          <input type="reset" name="reset" id="reset" value="Restablecer"></th>
+      </tr>
+    </tbody>
+  </table>
+</form>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</body>
+</html>
